@@ -1,6 +1,9 @@
 C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\bin\Debug\XMG.exe
 C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\bin\Debug\XMG.pdb
 C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\XMG.MainForm.resources
-C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\XMG.csproj.GenerateResource.Cache
 C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\XMG.exe
 C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\XMG.pdb
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\XMG.export.resources
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Debug\GenerateResource.write.1.tlog
