@@ -1,0 +1,6 @@
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\bin\Release\XMG.exe
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Release\XMG.csprojResolveAssemblyReference.cache
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Release\XMG.MainForm.resources
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Release\XMG.csproj.GenerateResource.Cache
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Release\XMG.exe
+C:\Users\iDesty\Documents\SharpDevelop Projects\XMG\XMG\obj\Release\XMG.export.resources
